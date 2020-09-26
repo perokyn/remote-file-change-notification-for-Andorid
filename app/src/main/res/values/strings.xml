@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CwbChatNote</string>
+    <string name="channel_name">chatwebnote</string>
+    <string name="channel_description">note from login</string>
+</resources>
